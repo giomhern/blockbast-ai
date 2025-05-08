@@ -1,3 +1,3 @@
-# A Reinforcement Learning Blockblast Player 
+# Blockblast AI 
 
 A deep learning bot that plays [Blockblast](https://blockblastonline.com/#google_vignette) and maximizes their score.  

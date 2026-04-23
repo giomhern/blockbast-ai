@@ -1,0 +1,12 @@
+[project]
+name = "blockblast-ai"
+version = "0.1.0"
+description = "A reinforcement-learning playground for Block Blast."
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+torch = ["torch>=2.2"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
